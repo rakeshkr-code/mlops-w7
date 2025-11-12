@@ -14,3 +14,4 @@ iris-k8s-deployment/
 ├── .dockerignore
 └── README.md
 
+Added SA KEY in sectrets

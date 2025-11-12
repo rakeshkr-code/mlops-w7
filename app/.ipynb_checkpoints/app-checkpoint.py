@@ -62,7 +62,7 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
 
 
-
+## Old one 
 # from flask import Flask, request, jsonify
 # import pickle
 # import numpy as np
