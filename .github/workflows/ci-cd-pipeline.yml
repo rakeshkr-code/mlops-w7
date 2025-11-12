@@ -83,8 +83,8 @@ jobs:
 
     - name: Set up Cloud SDK with auth plugin
       uses: google-github-actions/setup-gcloud@v2
-        with:
-          install_components: 'gke-gcloud-auth-plugin'
+      with:
+        install_components: 'gke-gcloud-auth-plugin'
 
     - name: Get GKE credentials
       uses: google-github-actions/get-gke-credentials@v2
